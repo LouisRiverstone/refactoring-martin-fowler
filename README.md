@@ -1,4 +1,4 @@
-# refactoring-martin-fowler (exemplos em TypeScript + Bun)
+# Refatoração - Aperfeiçoando o Projeto de Código Existente (exemplos em TypeScript + Bun)
 
 Este repositório contém exemplos didáticos das refatorações do livro "Refactoring" (2ª edição, Martin Fowler).
 
